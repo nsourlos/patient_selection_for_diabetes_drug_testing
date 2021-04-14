@@ -1,4 +1,4 @@
-#Patient Selection for Diabetes Drug Testing
+# Patient Selection for Diabetes Drug Testing
 
 This project is part of the ‘AI for healthcare’ Udacity nanodegree.
 
@@ -17,7 +17,9 @@ Due to healthcare PHI regulations (HIPAA, HITECH), there are limited number of p
 
 - https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
-The dataset reference information can be found at https://github.com/udacity/nd320-c1-emr-data-starter/tree/master/project/data_schema_references. There are two CSVs that provide more details on the fields and some of the mapped values.
+The dataset reference information can be found at 
+- https://github.com/udacity/nd320-c1-emr-data-starter/tree/master/project/data_schema_references. 
+There are two CSVs that provide more details on the fields and some of the mapped values.
 
 ### Dependencies
 Using Anaconda consists of the following:
